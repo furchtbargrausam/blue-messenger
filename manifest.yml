@@ -5,4 +5,4 @@ applications:
   name: blue-messenger-ac
   path: .
   instances: 1
-  memory: 384M
+  memory: 256M
