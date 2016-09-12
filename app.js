@@ -9,6 +9,9 @@ var http = require('http');
 var mosca = require('mosca');
 var fs = require('fs');
 
+// This application uses the Auto-Scaling Agent
+var as_agent = require('bluemix-autoscaling-agent');
+
 
 var db;
 var cloudant;
