@@ -1,7 +1,8 @@
 ---
 applications:
 - disk_quota: 1024M
+  host: http://psha-blue-messenger.eu-gb.mybluemix.net/
   name: blue-messenger-ac
   path: .
   instances: 1
-  memory: 512M
+  memory: 384M
