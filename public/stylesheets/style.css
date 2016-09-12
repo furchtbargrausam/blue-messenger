@@ -104,3 +104,7 @@ abbr[title]{
   font-size: 14px;
   color: #FFFFFF;
 }
+
+.btn-lg{
+     border-radius: 0;
+}
